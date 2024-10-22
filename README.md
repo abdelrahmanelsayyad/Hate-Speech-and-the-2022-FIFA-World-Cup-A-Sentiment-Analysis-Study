@@ -1,8 +1,6 @@
 # Final Project Report: Hate Speech and the 2022 FIFA World Cup: A Sentiment Analysis Study
 
 **BY:** Abderahman El-Sayyad  
-**Supervised by:** Eng. Baraa Abu Sallout
-
 ---
 
 ## 1. Introduction
