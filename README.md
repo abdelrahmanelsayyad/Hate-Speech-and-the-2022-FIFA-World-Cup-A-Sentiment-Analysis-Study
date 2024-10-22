@@ -45,7 +45,31 @@ The project seeks to explore whether the 2022 World Cup influenced public sentim
 
 ## 4. Exploratory Data Analysis (EDA)
 
-### 4.1 Sentiment Distribution Before, During, and After the World Cup
+## 4.1 Tableau Charts
+
+The following charts illustrate the social media sentiment and hate speech analysis conducted during the 2022 FIFA World Cup:
+
+### 1. Hate Speech and the World Cup: Sentiment Over Time
+
+This chart analyzes the day-by-day sentiment on social media regarding the FIFA World Cup. The data highlights the spikes in hate speech and sentiment fluctuation during key moments of the tournament.
+
+![image](https://github.com/user-attachments/assets/68ab03fc-9183-4aee-8931-c60e42cc7456)
+
+
+Key moments highlighted:
+- Saudi Arabia's shock victory against Argentina
+- Morocco's historic draw with Croatia and win over Portugal in the semi-finals.
+
+### 2. Percentage Distribution of Sentiment Over Time
+
+This chart shows the percentage breakdown of positive, neutral, and negative sentiment on social media throughout the World Cup. It emphasizes the proportion of negative sentiment (hate speech) relative to other sentiments.
+
+![image](https://github.com/user-attachments/assets/31a2be48-f491-4eca-b39d-0ed1fa690a59)
+
+
+Note: The spike in positive sentiment during Morocco's progression to the semi-finals is clearly visible.
+
+### 4.2 Sentiment Distribution Before, During, and After the World Cup
 
 The dataset was divided into three time periods:
 
@@ -58,7 +82,7 @@ A count plot visualized the distribution of positive, neutral, and negative twee
 ![image](https://github.com/user-attachments/assets/4866eb08-696c-4a73-9a48-f8b3b9705f9a)
 
 
-### 4.2 Tweet Length Distribution
+### 4.3 Tweet Length Distribution
 
 The length of tweets was analyzed to determine whether longer tweets conveyed more emotional or complex content.
 
@@ -67,7 +91,7 @@ The length of tweets was analyzed to determine whether longer tweets conveyed mo
 ![image](https://github.com/user-attachments/assets/d2bc7339-46e2-488f-aa9a-7c7910987313)
 
 
-### 4.3 Sentiment Over Time
+### 4.4 Sentiment Over Time
 
 Sentiment was analyzed on a daily basis, with the following key findings:
 
@@ -77,7 +101,7 @@ Sentiment was analyzed on a daily basis, with the following key findings:
 ![image](https://github.com/user-attachments/assets/7c6740c2-b898-4356-b0a5-9e2b372ca821)
 
 
-### 4.4 Word Cloud Analysis
+### 4.5 Word Cloud Analysis
 
 Word clouds visualized the most frequently used words during different periods:
 
